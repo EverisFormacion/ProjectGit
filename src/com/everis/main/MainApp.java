@@ -7,6 +7,8 @@ public class MainApp {
 		System.out.println("Hola mundo");
 
 		// Hola mundo
+		
+		System.out.println("");
 
 	}
 
